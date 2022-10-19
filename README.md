@@ -1,13 +1,13 @@
-<h3 align="center">
+<h2 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FreeCodeCamp_logo.png/800px-FreeCodeCamp_logo.png"
-    width="300" alt="FreeCodeCamp Logo" />
+    width="180" alt="FreeCodeCamp Logo" />
   <br />
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30"
     width="0px" />
   Camper Cafe ☕
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30"
     width="0px" />
-</h3>
+</h2>
 
 <p align="center">
   <a href="https://github.com/NikolaM-Dev/camper-cafe/stargazers">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/demo.18-10-22.png" alt="Camper Coffe" />
+  <img src="./assets/demo.18-10-22.png" />
 </p>
 
 &nbsp;
