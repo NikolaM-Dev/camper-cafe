@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/demo.18-10-22.png" />
+  <img src="./assets/demo.18-10-22.png" alt="Camper Coffe" />
 </p>
 
 &nbsp;
